@@ -1,0 +1,6 @@
+{
+  "name": "Stock Market Analyzer & Advisor",
+  "description": "A real-time stock market analysis and investment advisory platform featuring live charts, interactive simulated trading, technical alerts, and AI-powered buy/sell strategy recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
